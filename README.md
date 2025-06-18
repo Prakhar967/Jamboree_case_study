@@ -48,3 +48,10 @@ This model can help:
 - Build “what-if” tools for students to simulate different score scenarios
 
 ---
+
+## Author
+
+**Prakhar Asthana**
+[Linkdln] : www.linkedin.com/in/prakhar-asthana-5b3a8b131
+
+
