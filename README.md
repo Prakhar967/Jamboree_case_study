@@ -52,6 +52,6 @@ This model can help:
 ## Author
 
 **Prakhar Asthana**
-[Linkdln] : www.linkedin.com/in/prakhar-asthana-5b3a8b131
+[Linkedln] : www.linkedin.com/in/prakhar-asthana-5b3a8b131
 
 
